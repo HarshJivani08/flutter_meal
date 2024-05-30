@@ -44,7 +44,6 @@ class MealDetails extends ConsumerWidget {
         body: SingleChildScrollView(
           child: Column(
             children: [
-
               Hero(
                 tag: meal.id,
                 child: Image.network(
